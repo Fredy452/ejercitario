@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.contenedor{
+    width: 90%;
+    height: 90%;
+    background-color: #f0e4e4;
+    border-radius: 20px;
+}
